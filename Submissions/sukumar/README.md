@@ -11,4 +11,4 @@ No Bells and Whistles completed
 
 <h2>Online Resource</h2>
 
-https://stackoverflow.com/ : Used this to find out f how to create line graph and the mouse events
+https://stackoverflow.com/ : Used this to find out how to create line graph and the mouse events
