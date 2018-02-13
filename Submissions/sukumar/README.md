@@ -7,6 +7,8 @@ Collaborated with: Adam Winchell
 
 <h2>Submission: </h2>
 
+Parts 1-5 completed
+
 No Bells and Whistles completed
 
 <h2>Online Resource</h2>
